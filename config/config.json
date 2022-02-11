@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-http-client-azure-func-val-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spHttpClientAzureFuncVal/SpHttpClientAzureFuncValWebPart.js",
+          "manifest": "./src/webparts/spHttpClientAzureFuncVal/SpHttpClientAzureFuncValWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpHttpClientAzureFuncValWebPartStrings": "lib/webparts/spHttpClientAzureFuncVal/loc/{locale}.js"
+  }
+}
