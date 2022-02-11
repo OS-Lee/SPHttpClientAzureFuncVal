@@ -7,7 +7,7 @@
     "libraryName": "sp-http-client-azure-func-val",
     "libraryId": "50c3c811-9556-4f47-9bce-d3f979ad1b7f",
     "packageManager": "npm",
-    "isDomainIsolated": true,
+    "isDomainIsolated": false,
     "componentType": "webpart"
   }
 }

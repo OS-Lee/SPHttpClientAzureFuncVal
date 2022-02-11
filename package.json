@@ -1,6 +1,6 @@
 {
   "name": "sp-http-client-azure-func-val",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "private": true,
   "main": "lib/index.js",
   "scripts": {
